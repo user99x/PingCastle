@@ -40,7 +40,12 @@ PingCastle.exe --healthcheck --server mon-domaine.local --export report.html
 PingCastle.exe --compare ancien_rapport.xml nouveau_rapport.xml
 ```
 ### Besoin d'aide ?
+
 N'hésite pas a me contacter via discord ou telegram (check mon read.me) pour toute demande d'assistance concernant l'utilisation de l'outil !
+
 ---
-by user99x
+
+**by user99x
+**
+![PingCastle Logo](https://your-image-url.com/image.png)
 ---
