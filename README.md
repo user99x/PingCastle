@@ -1,4 +1,4 @@
-# 🏰 PingCastle  
+# PingCastle 🏰
 Un outil puissant pour analyser la sécurité de votre Active Directory et détecter les vulnérabilités avant qu'elles ne deviennent des menaces.  
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
@@ -17,7 +17,7 @@ Un outil puissant pour analyser la sécurité de votre Active Directory et déte
 - Accès avec un compte ayant les droits de lecture sur l'AD  
 
 ## 🛠️ Installation  
-Téléchargez la dernière version depuis le site officiel ou GitHub :  
+Téléchargez la dernière version depuis le [site officiel](https://www.pingcastle.com/) ou GitHub :  
 ```sh
 git clone https://github.com/PingCastle/PingCastle.git  
 cd PingCastle  
@@ -45,9 +45,8 @@ N'hésite pas a me contacter via discord ou telegram (check mon read.me) pour to
 
 ---
 
-**by user99x**
+**by user99x** ⚡
 
 <p align="center">
   <img src="user99x.jpeg" alt="Logo github" width="200" align="right">
 </p>
----
