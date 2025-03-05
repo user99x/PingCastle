@@ -45,7 +45,9 @@ N'hésite pas a me contacter via discord ou telegram (check mon read.me) pour to
 
 ---
 
-**by user99x
-**
-![PingCastle Logo](user99x.jpeg)
+**by user99x**
+
+<p align="center">
+  <img src="user99x.jpeg" alt="Logo github" width="200" align="right">
+</p>
 ---
